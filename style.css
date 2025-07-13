@@ -1,0 +1,16 @@
+html{
+    height: 100%;
+    margin:0px;
+}
+
+img {
+    width: 100px;
+}
+
+form {
+    text-align: center;
+}
+
+h1,h2,table {
+    text-align: center;
+}
